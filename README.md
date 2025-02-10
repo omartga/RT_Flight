@@ -1,5 +1,9 @@
 # Methods
-Practice code to implement Kafka with python as a solution to get real time data and store it in topics.
+Practice code to implement Kafka with python as a solution to get real time data and store it in a topic.
+
+The code was developed in VSCode, connected to WSL: Ubuntu and with a dedicated conda environment.
+
+Requirements can be found in requirements.txt
 
 Real time data obtained from **OpenSkyAPI** (The OpenSky Network, https://opensky-network.org):
 _Matthias Schäfer, Martin Strohmeier, Vincent Lenders, Ivan Martinovic and Matthias Wilhelm.
